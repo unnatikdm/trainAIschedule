@@ -1,0 +1,1213 @@
+[
+  {
+    "train_name": "CCG VR FAST",
+    "train_number": "90051",
+    "route": "CHURCHGATE to VIRAR",
+    "running_days": "Daily",
+    "available_classes": "UNRESERVED",
+    "type": "Passenger",
+    "zone": "WR",
+    "halt_schedule": [
+      {
+        "s_no": 1,
+        "code": "CCG",
+        "station_name": "CHURCHGATE",
+        "distance_kms": 0,
+        "platform": "A",
+        "arrival_time": "Source (Day 1)",
+        "departure_time": "05:15 (Day 1)"
+      },
+      {
+        "s_no": 2,
+        "code": "MEL",
+        "station_name": "MARINE LINES",
+        "distance_kms": 1,
+        "platform": "A",
+        "arrival_time": "05:17 (Day 1)",
+        "departure_time": "05:18 (Day 1)"
+      },
+      {
+        "s_no": 3,
+        "code": "CYR",
+        "station_name": "CHARNI ROAD",
+        "distance_kms": 2,
+        "platform": "A",
+        "arrival_time": "05:19 (Day 1)",
+        "departure_time": "05:20 (Day 1)"
+      },
+      {
+        "s_no": 4,
+        "code": "GTR",
+        "station_name": "GRANT ROAD",
+        "distance_kms": 4,
+        "platform": "A",
+        "arrival_time": "05:22 (Day 1)",
+        "departure_time": "05:23 (Day 1)"
+      },
+      {
+        "s_no": 5,
+        "code": "BCL",
+        "station_name": "MUMBAI CENTRAL LOCAL",
+        "distance_kms": 4,
+        "platform": "A",
+        "arrival_time": "05:24 (Day 1)",
+        "departure_time": "05:25 (Day 1)"
+      },
+      {
+        "s_no": 6,
+        "code": "DDR",
+        "station_name": "DADAR",
+        "distance_kms": 10,
+        "platform": "A",
+        "arrival_time": "05:31 (Day 1)",
+        "departure_time": "05:32 (Day 1)"
+      },
+      {
+        "s_no": 7,
+        "code": "BA",
+        "station_name": "BANDRA JN",
+        "distance_kms": 15,
+        "platform": "A",
+        "arrival_time": "05:36 (Day 1)",
+        "departure_time": "05:37 (Day 1)"
+      },
+      {
+        "s_no": 8,
+        "code": "ADH",
+        "station_name": "ANDHERI",
+        "distance_kms": 22,
+        "platform": "A",
+        "arrival_time": "05:44 (Day 1)",
+        "departure_time": "05:45 (Day 1)"
+      },
+      {
+        "s_no": 9,
+        "code": "BVI",
+        "station_name": "BORIVALI",
+        "distance_kms": 34,
+        "platform": "A",
+        "arrival_time": "05:58 (Day 1)",
+        "departure_time": "05:59 (Day 1)"
+      },
+      {
+        "s_no": 10,
+        "code": "DIC",
+        "station_name": "DAHISAR",
+        "distance_kms": 36,
+        "platform": "A",
+        "arrival_time": "06:02 (Day 1)",
+        "departure_time": "06:03 (Day 1)"
+      },
+      {
+        "s_no": 11,
+        "code": "MIRA",
+        "station_name": "MIRA ROAD",
+        "distance_kms": 40,
+        "platform": "A",
+        "arrival_time": "06:07 (Day 1)",
+        "departure_time": "06:08 (Day 1)"
+      },
+      {
+        "s_no": 12,
+        "code": "BYR",
+        "station_name": "BHAYANDAR",
+        "distance_kms": 43,
+        "platform": "A",
+        "arrival_time": "06:12 (Day 1)",
+        "departure_time": "06:13 (Day 1)"
+      },
+      {
+        "s_no": 13,
+        "code": "NIG",
+        "station_name": "NAIGAON",
+        "distance_kms": 48,
+        "platform": "A",
+        "arrival_time": "06:18 (Day 1)",
+        "departure_time": "06:19 (Day 1)"
+      },
+      {
+        "s_no": 14,
+        "code": "BSR",
+        "station_name": "VASAI ROAD",
+        "distance_kms": 52,
+        "platform": "1",
+        "arrival_time": "06:24 (Day 1)",
+        "departure_time": "06:25 (Day 1)"
+      },
+      {
+        "s_no": 15,
+        "code": "NSP",
+        "station_name": "NALLA SOPARA",
+        "distance_kms": 56,
+        "platform": "A",
+        "arrival_time": "06:29 (Day 1)",
+        "departure_time": "06:30 (Day 1)"
+      },
+      {
+        "s_no": 16,
+        "code": "VR",
+        "station_name": "VIRAR",
+        "distance_kms": 60,
+        "platform": "A",
+        "arrival_time": "06:36 (Day 1)",
+        "departure_time": "Destination (Day 1)"
+      }
+    ]
+  },
+  {
+    "train_name": "CCG PALGHAR FAST LOCAL",
+    "train_number": "93007",
+    "route": "CHURCHGATE to PALGHAR",
+    "running_days": "Daily",
+    "available_classes": "UNRESERVED",
+    "type": "Passenger",
+    "zone": "WR",
+    "halt_schedule": [
+      {
+        "s_no": 1,
+        "code": "CCG",
+        "station_name": "CHURCHGATE",
+        "distance_kms": 0,
+        "platform": "1",
+        "arrival_time": "Source (Day 1)",
+        "departure_time": "05:24 (Day 1)"
+      },
+      {
+        "s_no": 2,
+        "code": "BCL",
+        "station_name": "MUMBAI CENTRAL LOCAL",
+        "distance_kms": 4,
+        "platform": "A",
+        "arrival_time": "05:33 (Day 1)",
+        "departure_time": "05:34 (Day 1)"
+      },
+      {
+        "s_no": 3,
+        "code": "DDR",
+        "station_name": "DADAR",
+        "distance_kms": 10,
+        "platform": "A",
+        "arrival_time": "05:40 (Day 1)",
+        "departure_time": "05:41 (Day 1)"
+      },
+      {
+        "s_no": 4,
+        "code": "BA",
+        "station_name": "BANDRA JN",
+        "distance_kms": 14,
+        "platform": "A",
+        "arrival_time": "05:45 (Day 1)",
+        "departure_time": "05:46 (Day 1)"
+      },
+      {
+        "s_no": 5,
+        "code": "ADH",
+        "station_name": "ANDHERI",
+        "distance_kms": 21,
+        "platform": "8",
+        "arrival_time": "05:54 (Day 1)",
+        "departure_time": "05:55 (Day 1)"
+      },
+      {
+        "s_no": 6,
+        "code": "BVI",
+        "station_name": "BORIVALI",
+        "distance_kms": 33,
+        "platform": "6",
+        "arrival_time": "06:08 (Day 1)",
+        "departure_time": "06:09 (Day 1)"
+      },
+      {
+        "s_no": 7,
+        "code": "BYR",
+        "station_name": "BHAYANDAR",
+        "distance_kms": 42,
+        "platform": "5",
+        "arrival_time": "06:22 (Day 1)",
+        "departure_time": "06:23 (Day 1)"
+      },
+      {
+        "s_no": 8,
+        "code": "BSR",
+        "station_name": "VASAI ROAD",
+        "distance_kms": 51,
+        "platform": "4",
+        "arrival_time": "06:33 (Day 1)",
+        "departure_time": "06:34 (Day 1)"
+      },
+      {
+        "s_no": 9,
+        "code": "VR",
+        "station_name": "VIRAR",
+        "distance_kms": 59,
+        "platform": "4",
+        "arrival_time": "06:44 (Day 1)",
+        "departure_time": "06:45 (Day 1)"
+      },
+      {
+        "s_no": 10,
+        "code": "VTN",
+        "station_name": "VAITARNA",
+        "distance_kms": 67,
+        "platform": "1",
+        "arrival_time": "06:54 (Day 1)",
+        "departure_time": "06:55 (Day 1)"
+      },
+      {
+        "s_no": 11,
+        "code": "SAH",
+        "station_name": "SAPHALE",
+        "distance_kms": 75,
+        "platform": "A",
+        "arrival_time": "07:02 (Day 1)",
+        "departure_time": "07:03 (Day 1)"
+      },
+      {
+        "s_no": 12,
+        "code": "KLV",
+        "station_name": "KELVA ROAD",
+        "distance_kms": 81,
+        "platform": "A",
+        "arrival_time": "07:05 (Day 1)",
+        "departure_time": "07:11 (Day 1)"
+      },
+      {
+        "s_no": 13,
+        "code": "PLG",
+        "station_name": "PALGHAR",
+        "distance_kms": 89,
+        "platform": "A",
+        "arrival_time": "07:25 (Day 1)",
+        "departure_time": "07:26 (Day 1)"
+      }
+    ]
+  },
+  {
+    "train_name": "CCG VR FAST",
+    "train_number": "90063",
+    "route": "CHURCHGATE to VIRAR",
+    "running_days": "Daily",
+    "available_classes": "UNRESERVED",
+    "type": "Passenger",
+    "zone": "WR",
+    "halt_schedule": [
+      {
+        "s_no": 1,
+        "code": "CCG",
+        "station_name": "CHURCHGATE",
+        "distance_kms": 0,
+        "platform": "A",
+        "arrival_time": "Source (Day 1)",
+        "departure_time": "05:28 (Day 1)"
+      },
+      {
+        "s_no": 2,
+        "code": "MEL",
+        "station_name": "MARINE LINES",
+        "distance_kms": 1,
+        "platform": "A",
+        "arrival_time": "05:30 (Day 1)",
+        "departure_time": "05:31 (Day 1)"
+      },
+      {
+        "s_no": 3,
+        "code": "CYR",
+        "station_name": "CHARNI ROAD",
+        "distance_kms": 2,
+        "platform": "A",
+        "arrival_time": "05:32 (Day 1)",
+        "departure_time": "05:33 (Day 1)"
+      },
+      {
+        "s_no": 4,
+        "code": "GTR",
+        "station_name": "GRANT ROAD",
+        "distance_kms": 4,
+        "platform": "A",
+        "arrival_time": "05:35 (Day 1)",
+        "departure_time": "05:36 (Day 1)"
+      },
+      {
+        "s_no": 5,
+        "code": "BCL",
+        "station_name": "MUMBAI CENTRAL LOCAL",
+        "distance_kms": 4,
+        "platform": "A",
+        "arrival_time": "05:37 (Day 1)",
+        "departure_time": "05:38 (Day 1)"
+      },
+      {
+        "s_no": 6,
+        "code": "DDR",
+        "station_name": "DADAR",
+        "distance_kms": 10,
+        "platform": "1",
+        "arrival_time": "05:44 (Day 1)",
+        "departure_time": "05:45 (Day 1)"
+      },
+      {
+        "s_no": 7,
+        "code": "BA",
+        "station_name": "BANDRA JN",
+        "distance_kms": 15,
+        "platform": "A",
+        "arrival_time": "05:49 (Day 1)",
+        "departure_time": "05:50 (Day 1)"
+      },
+      {
+        "s_no": 8,
+        "code": "ADH",
+        "station_name": "ANDHERI",
+        "distance_kms": 22,
+        "platform": "A",
+        "arrival_time": "05:58 (Day 1)",
+        "departure_time": "05:59 (Day 1)"
+      },
+      {
+        "s_no": 9,
+        "code": "BVI",
+        "station_name": "BORIVALI",
+        "distance_kms": 34,
+        "platform": "A",
+        "arrival_time": "06:12 (Day 1)",
+        "departure_time": "06:13 (Day 1)"
+      },
+      {
+        "s_no": 10,
+        "code": "DIC",
+        "station_name": "DAHISAR",
+        "distance_kms": 36,
+        "platform": "A",
+        "arrival_time": "06:16 (Day 1)",
+        "departure_time": "06:17 (Day 1)"
+      },
+      {
+        "s_no": 11,
+        "code": "MIRA",
+        "station_name": "MIRA ROAD",
+        "distance_kms": 40,
+        "platform": "A",
+        "arrival_time": "06:21 (Day 1)",
+        "departure_time": "06:22 (Day 1)"
+      },
+      {
+        "s_no": 12,
+        "code": "BYR",
+        "station_name": "BHAYANDAR",
+        "distance_kms": 43,
+        "platform": "A",
+        "arrival_time": "06:26 (Day 1)",
+        "departure_time": "06:27 (Day 1)"
+      },
+      {
+        "s_no": 13,
+        "code": "NIG",
+        "station_name": "NAIGAON",
+        "distance_kms": 48,
+        "platform": "A",
+        "arrival_time": "06:32 (Day 1)",
+        "departure_time": "06:33 (Day 1)"
+      },
+      {
+        "s_no": 14,
+        "code": "BSR",
+        "station_name": "VASAI ROAD",
+        "distance_kms": 52,
+        "platform": "A",
+        "arrival_time": "06:37 (Day 1)",
+        "departure_time": "06:38 (Day 1)"
+      },
+      {
+        "s_no": 15,
+        "code": "NSP",
+        "station_name": "NALLA SOPARA",
+        "distance_kms": 56,
+        "platform": "A",
+        "arrival_time": "06:42 (Day 1)",
+        "departure_time": "06:43 (Day 1)"
+      },
+      {
+        "s_no": 16,
+        "code": "VR",
+        "station_name": "VIRAR",
+        "distance_kms": 60,
+        "platform": "A",
+        "arrival_time": "06:50 (Day 1)",
+        "departure_time": "Destination (Day 1)"
+      }
+    ]
+  },
+  {
+    "train_name": "CCG VR FAST",
+    "train_number": "90067",
+    "route": "CHURCHGATE to VIRAR",
+    "running_days": "Daily",
+    "available_classes": "UNRESERVED",
+    "type": "Passenger",
+    "zone": "WR",
+    "halt_schedule": [
+      {
+        "s_no": 1,
+        "code": "CCG",
+        "station_name": "CHURCHGATE",
+        "distance_kms": 0,
+        "platform": "1",
+        "arrival_time": "Source (Day 1)",
+        "departure_time": "05:32 (Day 1)"
+      },
+      {
+        "s_no": 2,
+        "code": "MEL",
+        "station_name": "MARINE LINES",
+        "distance_kms": 1,
+        "platform": "A",
+        "arrival_time": "05:34 (Day 1)",
+        "departure_time": "05:35 (Day 1)"
+      },
+      {
+        "s_no": 3,
+        "code": "CYR",
+        "station_name": "CHARNI ROAD",
+        "distance_kms": 2,
+        "platform": "A",
+        "arrival_time": "05:36 (Day 1)",
+        "departure_time": "05:37 (Day 1)"
+      },
+      {
+        "s_no": 4,
+        "code": "GTR",
+        "station_name": "GRANT ROAD",
+        "distance_kms": 4,
+        "platform": "A",
+        "arrival_time": "05:39 (Day 1)",
+        "departure_time": "05:40 (Day 1)"
+      },
+      {
+        "s_no": 5,
+        "code": "BCL",
+        "station_name": "MUMBAI CENTRAL LOCAL",
+        "distance_kms": 4,
+        "platform": "A",
+        "arrival_time": "05:41 (Day 1)",
+        "departure_time": "05:42 (Day 1)"
+      },
+      {
+        "s_no": 6,
+        "code": "DDR",
+        "station_name": "DADAR",
+        "distance_kms": 10,
+        "platform": "1",
+        "arrival_time": "05:48 (Day 1)",
+        "departure_time": "05:49 (Day 1)"
+      },
+      {
+        "s_no": 7,
+        "code": "BA",
+        "station_name": "BANDRA JN",
+        "distance_kms": 15,
+        "platform": "A",
+        "arrival_time": "05:54 (Day 1)",
+        "departure_time": "05:55 (Day 1)"
+      },
+      {
+        "s_no": 8,
+        "code": "ADH",
+        "station_name": "ANDHERI",
+        "distance_kms": 22,
+        "platform": "A",
+        "arrival_time": "06:02 (Day 1)",
+        "departure_time": "06:03 (Day 1)"
+      },
+      {
+        "s_no": 9,
+        "code": "BVI",
+        "station_name": "BORIVALI",
+        "distance_kms": 34,
+        "platform": "A",
+        "arrival_time": "06:16 (Day 1)",
+        "departure_time": "06:17 (Day 1)"
+      },
+      {
+        "s_no": 10,
+        "code": "DIC",
+        "station_name": "DAHISAR",
+        "distance_kms": 36,
+        "platform": "A",
+        "arrival_time": "06:20 (Day 1)",
+        "departure_time": "06:21 (Day 1)"
+      },
+      {
+        "s_no": 11,
+        "code": "MIRA",
+        "station_name": "MIRA ROAD",
+        "distance_kms": 40,
+        "platform": "A",
+        "arrival_time": "06:25 (Day 1)",
+        "departure_time": "06:26 (Day 1)"
+      },
+      {
+        "s_no": 12,
+        "code": "BYR",
+        "station_name": "BHAYANDAR",
+        "distance_kms": 43,
+        "platform": "A",
+        "arrival_time": "06:30 (Day 1)",
+        "departure_time": "06:31 (Day 1)"
+      },
+      {
+        "s_no": 13,
+        "code": "NIG",
+        "station_name": "NAIGAON",
+        "distance_kms": 48,
+        "platform": "A",
+        "arrival_time": "06:36 (Day 1)",
+        "departure_time": "06:37 (Day 1)"
+      },
+      {
+        "s_no": 14,
+        "code": "BSR",
+        "station_name": "VASAI ROAD",
+        "distance_kms": 52,
+        "platform": "A",
+        "arrival_time": "06:41 (Day 1)",
+        "departure_time": "06:42 (Day 1)"
+      },
+      {
+        "s_no": 15,
+        "code": "NSP",
+        "station_name": "NALLA SOPARA",
+        "distance_kms": 56,
+        "platform": "A",
+        "arrival_time": "06:47 (Day 1)",
+        "departure_time": "06:48 (Day 1)"
+      },
+      {
+        "s_no": 16,
+        "code": "VR",
+        "station_name": "VIRAR",
+        "distance_kms": 60,
+        "platform": "A",
+        "arrival_time": "06:54 (Day 1)",
+        "departure_time": "Destination (Day 1)"
+      }
+    ]
+  },
+  {
+    "train_name": "CCG VIRAR FAST",
+    "train_number": "90081",
+    "route": "CHURCHGATE to VIRAR",
+    "running_days": "Daily",
+    "available_classes": "UNRESERVED",
+    "type": "Passenger",
+    "zone": "WR",
+    "halt_schedule": [
+      {
+        "s_no": 1,
+        "code": "CCG",
+        "station_name": "CHURCHGATE",
+        "distance_kms": 0,
+        "platform": "A",
+        "arrival_time": "Source (Day 1)",
+        "departure_time": "05:52 (Day 1)"
+      },
+      {
+        "s_no": 2,
+        "code": "MEL",
+        "station_name": "MARINE LINES",
+        "distance_kms": 1,
+        "platform": "A",
+        "arrival_time": "05:54 (Day 1)",
+        "departure_time": "05:55 (Day 1)"
+      },
+      {
+        "s_no": 3,
+        "code": "CYR",
+        "station_name": "CHARNI ROAD",
+        "distance_kms": 2,
+        "platform": "A",
+        "arrival_time": "05:56 (Day 1)",
+        "departure_time": "05:57 (Day 1)"
+      },
+      {
+        "s_no": 4,
+        "code": "GTR",
+        "station_name": "GRANT ROAD",
+        "distance_kms": 4,
+        "platform": "A",
+        "arrival_time": "05:59 (Day 1)",
+        "departure_time": "06:00 (Day 1)"
+      },
+      {
+        "s_no": 5,
+        "code": "BCL",
+        "station_name": "MUMBAI CENTRAL LOCAL",
+        "distance_kms": 4,
+        "platform": "A",
+        "arrival_time": "06:01 (Day 1)",
+        "departure_time": "06:02 (Day 1)"
+      },
+      {
+        "s_no": 6,
+        "code": "DDR",
+        "station_name": "DADAR",
+        "distance_kms": 10,
+        "platform": "1",
+        "arrival_time": "06:08 (Day 1)",
+        "departure_time": "06:09 (Day 1)"
+      },
+      {
+        "s_no": 7,
+        "code": "BA",
+        "station_name": "BANDRA JN",
+        "distance_kms": 15,
+        "platform": "A",
+        "arrival_time": "06:13 (Day 1)",
+        "departure_time": "06:14 (Day 1)"
+      },
+      {
+        "s_no": 8,
+        "code": "ADH",
+        "station_name": "ANDHERI",
+        "distance_kms": 22,
+        "platform": "A",
+        "arrival_time": "06:22 (Day 1)",
+        "departure_time": "06:23 (Day 1)"
+      },
+      {
+        "s_no": 9,
+        "code": "JOS",
+        "station_name": "JOGESHWARI",
+        "distance_kms": 24,
+        "platform": "A",
+        "arrival_time": "06:25 (Day 1)",
+        "departure_time": "06:26 (Day 1)"
+      },
+      {
+        "s_no": 10,
+        "code": "GMN",
+        "station_name": "GOREGAON",
+        "distance_kms": 27,
+        "platform": "3",
+        "arrival_time": "06:30 (Day 1)",
+        "departure_time": "06:31 (Day 1)"
+      },
+      {
+        "s_no": 11,
+        "code": "MDD",
+        "station_name": "MALAD",
+        "distance_kms": 29,
+        "platform": "A",
+        "arrival_time": "06:34 (Day 1)",
+        "departure_time": "06:35 (Day 1)"
+      },
+      {
+        "s_no": 12,
+        "code": "KILE",
+        "station_name": "KANDIVLI",
+        "distance_kms": 31,
+        "platform": "A",
+        "arrival_time": "06:37 (Day 1)",
+        "departure_time": "06:38 (Day 1)"
+      },
+      {
+        "s_no": 13,
+        "code": "BVI",
+        "station_name": "BORIVALI",
+        "distance_kms": 34,
+        "platform": "1",
+        "arrival_time": "06:43 (Day 1)",
+        "departure_time": "06:44 (Day 1)"
+      },
+      {
+        "s_no": 14,
+        "code": "DIC",
+        "station_name": "DAHISAR",
+        "distance_kms": 36,
+        "platform": "3",
+        "arrival_time": "06:47 (Day 1)",
+        "departure_time": "06:48 (Day 1)"
+      },
+      {
+        "s_no": 15,
+        "code": "MIRA",
+        "station_name": "MIRA ROAD",
+        "distance_kms": 40,
+        "platform": "A",
+        "arrival_time": "06:52 (Day 1)",
+        "departure_time": "06:53 (Day 1)"
+      },
+      {
+        "s_no": 16,
+        "code": "BYR",
+        "station_name": "BHAYANDAR",
+        "distance_kms": 43,
+        "platform": "A",
+        "arrival_time": "06:57 (Day 1)",
+        "departure_time": "06:58 (Day 1)"
+      },
+      {
+        "s_no": 17,
+        "code": "NIG",
+        "station_name": "NAIGAON",
+        "distance_kms": 48,
+        "platform": "A",
+        "arrival_time": "07:03 (Day 1)",
+        "departure_time": "07:04 (Day 1)"
+      },
+      {
+        "s_no": 18,
+        "code": "BSR",
+        "station_name": "VASAI ROAD",
+        "distance_kms": 52,
+        "platform": "A",
+        "arrival_time": "07:08 (Day 1)",
+        "departure_time": "07:09 (Day 1)"
+      },
+      {
+        "s_no": 19,
+        "code": "NSP",
+        "station_name": "NALLA SOPARA",
+        "distance_kms": 56,
+        "platform": "A",
+        "arrival_time": "07:13 (Day 1)",
+        "departure_time": "07:14 (Day 1)"
+      },
+      {
+        "s_no": 20,
+        "code": "VR",
+        "station_name": "VIRAR",
+        "distance_kms": 60,
+        "platform": "3",
+        "arrival_time": "07:21 (Day 1)",
+        "departure_time": "Destination (Day 1)"
+      }
+    ]
+  },
+  {
+    "train_name": "CCG VR FAST",
+    "train_number": "90095",
+    "route": "CHURCHGATE to VIRAR",
+    "running_days": "Daily",
+    "available_classes": "UNRESERVED",
+    "type": "Passenger",
+    "zone": "WR",
+    "halt_schedule": [
+      {
+        "s_no": 1,
+        "code": "CCG",
+        "station_name": "CHURCHGATE",
+        "distance_kms": 0,
+        "platform": "2",
+        "arrival_time": "Source (Day 1)",
+        "departure_time": "06:08 (Day 1)"
+      },
+      {
+        "s_no": 2,
+        "code": "MEL",
+        "station_name": "MARINE LINES",
+        "distance_kms": 1,
+        "platform": "1",
+        "arrival_time": "06:10 (Day 1)",
+        "departure_time": "06:11 (Day 1)"
+      },
+      {
+        "s_no": 3,
+        "code": "CYR",
+        "station_name": "CHARNI ROAD",
+        "distance_kms": 2,
+        "platform": "A",
+        "arrival_time": "06:12 (Day 1)",
+        "departure_time": "06:13 (Day 1)"
+      },
+      {
+        "s_no": 4,
+        "code": "GTR",
+        "station_name": "GRANT ROAD",
+        "distance_kms": 4,
+        "platform": "A",
+        "arrival_time": "06:15 (Day 1)",
+        "departure_time": "06:16 (Day 1)"
+      },
+      {
+        "s_no": 5,
+        "code": "BCL",
+        "station_name": "MUMBAI CENTRAL LOCAL",
+        "distance_kms": 4,
+        "platform": "A",
+        "arrival_time": "06:17 (Day 1)",
+        "departure_time": "06:18 (Day 1)"
+      },
+      {
+        "s_no": 6,
+        "code": "DDR",
+        "station_name": "DADAR",
+        "distance_kms": 10,
+        "platform": "4",
+        "arrival_time": "06:24 (Day 1)",
+        "departure_time": "06:25 (Day 1)"
+      },
+      {
+        "s_no": 7,
+        "code": "BA",
+        "station_name": "BANDRA JN",
+        "distance_kms": 15,
+        "platform": "A",
+        "arrival_time": "06:29 (Day 1)",
+        "departure_time": "06:30 (Day 1)"
+      },
+      {
+        "s_no": 8,
+        "code": "ADH",
+        "station_name": "ANDHERI",
+        "distance_kms": 22,
+        "platform": "A",
+        "arrival_time": "06:37 (Day 1)",
+        "departure_time": "06:38 (Day 1)"
+      },
+      {
+        "s_no": 9,
+        "code": "BVI",
+        "station_name": "BORIVALI",
+        "distance_kms": 34,
+        "platform": "A",
+        "arrival_time": "06:52 (Day 1)",
+        "departure_time": "06:53 (Day 1)"
+      },
+      {
+        "s_no": 10,
+        "code": "DIC",
+        "station_name": "DAHISAR",
+        "distance_kms": 36,
+        "platform": "A",
+        "arrival_time": "06:57 (Day 1)",
+        "departure_time": "06:58 (Day 1)"
+      },
+      {
+        "s_no": 11,
+        "code": "MIRA",
+        "station_name": "MIRA ROAD",
+        "distance_kms": 40,
+        "platform": "A",
+        "arrival_time": "07:02 (Day 1)",
+        "departure_time": "07:03 (Day 1)"
+      },
+      {
+        "s_no": 12,
+        "code": "BYR",
+        "station_name": "BHAYANDAR",
+        "distance_kms": 43,
+        "platform": "A",
+        "arrival_time": "07:07 (Day 1)",
+        "departure_time": "07:08 (Day 1)"
+      },
+      {
+        "s_no": 13,
+        "code": "NIG",
+        "station_name": "NAIGAON",
+        "distance_kms": 48,
+        "platform": "A",
+        "arrival_time": "07:13 (Day 1)",
+        "departure_time": "07:14 (Day 1)"
+      },
+      {
+        "s_no": 14,
+        "code": "BSR",
+        "station_name": "VASAI ROAD",
+        "distance_kms": 52,
+        "platform": "A",
+        "arrival_time": "07:18 (Day 1)",
+        "departure_time": "07:19 (Day 1)"
+      },
+      {
+        "s_no": 15,
+        "code": "NSP",
+        "station_name": "NALLA SOPARA",
+        "distance_kms": 56,
+        "platform": "A",
+        "arrival_time": "07:23 (Day 1)",
+        "departure_time": "07:24 (Day 1)"
+      },
+      {
+        "s_no": 16,
+        "code": "VR",
+        "station_name": "VIRAR",
+        "distance_kms": 60,
+        "platform": "A",
+        "arrival_time": "07:31 (Day 1)",
+        "departure_time": "Destination (Day 1)"
+      }
+    ]
+  },
+  {
+    "train_name": "Unspecified Train (based on halt schedule)",
+    "train_number": "N/A",
+    "route": "CHURCHGATE to VIRAR",
+    "running_days": "N/A",
+    "available_classes": "N/A",
+    "type": "N/A",
+    "zone": "N/A",
+    "halt_schedule": [
+      {
+        "s_no": 1,
+        "code": "CCG",
+        "station_name": "CHURCHGATE",
+        "distance_kms": 0,
+        "platform": "A",
+        "arrival_time": "Source (Day 1)",
+        "departure_time": "06:08 (Day 1)"
+      },
+      {
+        "s_no": 2,
+        "code": "MEL",
+        "station_name": "MARINE LINES",
+        "distance_kms": 1,
+        "platform": "A",
+        "arrival_time": "06:10 (Day 1)",
+        "departure_time": "06:11 (Day 1)"
+      },
+      {
+        "s_no": 3,
+        "code": "CYR",
+        "station_name": "CHARNI ROAD",
+        "distance_kms": 2,
+        "platform": "A",
+        "arrival_time": "06:12 (Day 1)",
+        "departure_time": "06:13 (Day 1)"
+      },
+      {
+        "s_no": 4,
+        "code": "GTR",
+        "station_name": "GRANT ROAD",
+        "distance_kms": 3,
+        "platform": "A",
+        "arrival_time": "06:15 (Day 1)",
+        "departure_time": "06:16 (Day 1)"
+      },
+      {
+        "s_no": 5,
+        "code": "BCL",
+        "station_name": "MUMBAI CENTRAL LOCAL",
+        "distance_kms": 4,
+        "platform": "A",
+        "arrival_time": "06:17 (Day 1)",
+        "departure_time": "06:18 (Day 1)"
+      },
+      {
+        "s_no": 6,
+        "code": "MX",
+        "station_name": "MAHALAKSHMI",
+        "distance_kms": 5,
+        "platform": "A",
+        "arrival_time": "06:20 (Day 1)",
+        "departure_time": "06:21 (Day 1)"
+      },
+      {
+        "s_no": 7,
+        "code": "PL",
+        "station_name": "LOWER PAREL",
+        "distance_kms": 7,
+        "platform": "A",
+        "arrival_time": "06:23 (Day 1)",
+        "departure_time": "06:24 (Day 1)"
+      },
+      {
+        "s_no": 8,
+        "code": "PBHD",
+        "station_name": "PRABHADEVI",
+        "distance_kms": 8,
+        "platform": "A",
+        "arrival_time": "06:26 (Day 1)",
+        "departure_time": "06:27 (Day 1)"
+      },
+      {
+        "s_no": 9,
+        "code": "DDR",
+        "station_name": "DADAR",
+        "distance_kms": 9,
+        "platform": "A",
+        "arrival_time": "06:28 (Day 1)",
+        "departure_time": "06:29 (Day 1)"
+      },
+      {
+        "s_no": 10,
+        "code": "MRU",
+        "station_name": "MATUNGA ROAD",
+        "distance_kms": 11,
+        "platform": "A",
+        "arrival_time": "06:30 (Day 1)",
+        "departure_time": "06:31 (Day 1)"
+      },
+      {
+        "s_no": 11,
+        "code": "MM",
+        "station_name": "MAHIM JN",
+        "distance_kms": 12,
+        "platform": "A",
+        "arrival_time": "06:33 (Day 1)",
+        "departure_time": "06:34 (Day 1)"
+      },
+      {
+        "s_no": 12,
+        "code": "BA",
+        "station_name": "BANDRA JN",
+        "distance_kms": 14,
+        "platform": "A",
+        "arrival_time": "06:37 (Day 1)",
+        "departure_time": "06:38 (Day 1)"
+      },
+      {
+        "s_no": 13,
+        "code": "KHAR",
+        "station_name": "KHAR ROAD",
+        "distance_kms": 16,
+        "platform": "A",
+        "arrival_time": "06:40 (Day 1)",
+        "departure_time": "06:41 (Day 1)"
+      },
+      {
+        "s_no": 14,
+        "code": "STC",
+        "station_name": "SANTA CRUZ",
+        "distance_kms": 17,
+        "platform": "A",
+        "arrival_time": "06:42 (Day 1)",
+        "departure_time": "06:43 (Day 1)"
+      },
+      {
+        "s_no": 15,
+        "code": "VLP",
+        "station_name": "VILLE PARLE",
+        "distance_kms": 19,
+        "platform": "A",
+        "arrival_time": "06:45 (Day 1)",
+        "departure_time": "06:46 (Day 1)"
+      },
+      {
+        "s_no": 16,
+        "code": "ADH",
+        "station_name": "ANDHERI",
+        "distance_kms": 21,
+        "platform": "A",
+        "arrival_time": "06:50 (Day 1)",
+        "departure_time": "06:51 (Day 1)"
+      },
+      {
+        "s_no": 17,
+        "code": "JOS",
+        "station_name": "JOGESHWARI",
+        "distance_kms": 23,
+        "platform": "A",
+        "arrival_time": "06:53 (Day 1)",
+        "departure_time": "06:54 (Day 1)"
+      },
+      {
+        "s_no": 18,
+        "code": "RMAR",
+        "station_name": "RAM MANDIR",
+        "distance_kms": 25,
+        "platform": "A",
+        "arrival_time": "06:56 (Day 1)",
+        "departure_time": "06:57 (Day 1)"
+      },
+      {
+        "s_no": 19,
+        "code": "GMN",
+        "station_name": "GOREGAON",
+        "distance_kms": 26,
+        "platform": "A",
+        "arrival_time": "06:58 (Day 1)",
+        "departure_time": "06:59 (Day 1)"
+      },
+      {
+        "s_no": 20,
+        "code": "MDD",
+        "station_name": "MALAD",
+        "distance_kms": 28,
+        "platform": "A",
+        "arrival_time": "07:02 (Day 1)",
+        "departure_time": "07:03 (Day 1)"
+      },
+      {
+        "s_no": 21,
+        "code": "KILE",
+        "station_name": "KANDIVLI",
+        "distance_kms": 30,
+        "platform": "A",
+        "arrival_time": "07:05 (Day 1)",
+        "departure_time": "07:06 (Day 1)"
+      },
+      {
+        "s_no": 22,
+        "code": "BVI",
+        "station_name": "BORIVALI",
+        "distance_kms": 33,
+        "platform": "A",
+        "arrival_time": "07:12 (Day 1)",
+        "departure_time": "07:13 (Day 1)"
+      },
+      {
+        "s_no": 23,
+        "code": "DIC",
+        "station_name": "DAHISAR",
+        "distance_kms": 35,
+        "platform": "A",
+        "arrival_time": "07:17 (Day 1)",
+        "departure_time": "07:18 (Day 1)"
+      },
+      {
+        "s_no": 24,
+        "code": "MIRA",
+        "station_name": "MIRA ROAD",
+        "distance_kms": 38,
+        "platform": "A",
+        "arrival_time": "07:22 (Day 1)",
+        "departure_time": "07:23 (Day 1)"
+      },
+      {
+        "s_no": 25,
+        "code": "BYR",
+        "station_name": "BHAYANDAR",
+        "distance_kms": 41,
+        "platform": "A",
+        "arrival_time": "07:27 (Day 1)",
+        "departure_time": "07:28 (Day 1)"
+      },
+      {
+        "s_no": 26,
+        "code": "NIG",
+        "station_name": "NAIGAON",
+        "distance_kms": 46,
+        "platform": "A",
+        "arrival_time": "07:33 (Day 1)",
+        "departure_time": "07:34 (Day 1)"
+      },
+      {
+        "s_no": 27,
+        "code": "BSR",
+        "station_name": "VASAI ROAD",
+        "distance_kms": 50,
+        "platform": "A",
+        "arrival_time": "07:38 (Day 1)",
+        "departure_time": "07:39 (Day 1)"
+      },
+      {
+        "s_no": 28,
+        "code": "NSP",
+        "station_name": "NALLA SOPARA",
+        "distance_kms": 54,
+        "platform": "A",
+        "arrival_time": "07:43 (Day 1)",
+        "departure_time": "07:44 (Day 1)"
+      },
+      {
+        "s_no": 29,
+        "code": "VR",
+        "station_name": "VIRAR",
+        "distance_kms": 58,
+        "platform": "A",
+        "arrival_time": "07:50 (Day 1)",
+        "departure_time": "Destination (Day 1)"
+      }
+    ]
+  }
+]

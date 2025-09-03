@@ -1,0 +1,9 @@
+
+train_number,train_name,priority,weight,scheduled_departure,optimized_departure,delay
+90051,CCG VR FAST,11,5,315,315,0
+93007,CCG PALGHAR FAST LOCAL,11,5,324,324,0
+90063,CCG VR FAST,11,5,328,328,0
+90067,CCG VR FAST,11,5,332,332,0
+90081,CCG VIRAR FAST,11,5,352,352,0
+90095,CCG VR FAST,11,5,368,368,0
+N/A,Unspecified Train (based on halt schedule),15,1,368,371,3
